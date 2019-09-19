@@ -14,7 +14,7 @@
 
 ## What GitHub repository will the SIG use?
 <!--  help text goes here  -->
-https://github.com/nlesc-sigs/software-sustainability
+https://github.com/nlesc-sigs/<some-repo>
 
 ## What Office group will the SIG use?
 <!--  help text goes here  -->
