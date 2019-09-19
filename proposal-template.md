@@ -1,7 +1,7 @@
 # Application form for starting a SIG
 
 
-## What will be the name of SIG
+## What will be the name of the SIG
 <!--  help text goes here  -->
 
 ## Which two persons will act as SIG Lead?
