@@ -11,6 +11,7 @@
 
 ## What is the SIG’s mission?
 <!--  help text goes here  -->
+The mission of your SIG should contribute to the organization’s mission.
 
 ## What GitHub repository will the SIG use?
 <!--  help text goes here  -->
@@ -27,7 +28,7 @@ In this section, list what plans you have for this SIG. Describe each plan accor
 - **title 2**: context 2
 - etc
 
-For title, describe your plan in just a few words. For context, briefly describe what the plan is, using SMART terminology. For the R in SMART, describe how your plan contributes to the organization’s mission.
+For title, describe your plan in just a few words. For context, describe briefly and concretely what is the plan.
 
 ## What are the expected outputs of the proposed SIG?
 <!--  help text goes here  -->
