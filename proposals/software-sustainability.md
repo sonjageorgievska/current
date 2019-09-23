@@ -3,6 +3,7 @@
 ## What will be the name of the SIG
 
 Software Sustainability SIG
+(BTW _software sustainability_ includes _software engineering_)
 
 ## Which two persons will act as SIG Lead?
 
@@ -14,9 +15,16 @@ Software Sustainability SIG
 The mission of your SIG should contribute to the organization’s mission.
 -->
 
-- Software sustainability includes best practices
+
+- Sharing knowledge about best practices regarding research software development, specifically in relation to:
+   - code quality
+   - version control
+   - testing
+   - continuous integration
+   - software citation
+   - FAIR software
 - Formulate some kind of vision on how to improve the day to day practice of developing research software at the Netherlands eScience Center.
-- Act as a signpost for questions regarding software sustainability questions
+- Act as a signpost for questions regarding sustainability of research software
 
 ## What GitHub repository will the SIG use?
 
@@ -42,7 +50,7 @@ For title, describe your plan in just a few words. For context, describe briefly
 - What about software engineering
 - something related to software sustainability plans| protocols https://doi.org/10.5281/zenodo.1451750
 - should i include things like talks about RSD stuff?
-
+- what aboot the guide
 
 
 ## What are the expected outputs of the proposed SIG?
