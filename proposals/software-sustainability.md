@@ -26,8 +26,8 @@ https://github.com/nlesc-sigs/software-sustainability
 
 
 ## Plans for period until end of April 2020
-<!--  
-In this section, list what plans you have for this SIG. Describe each plan according to the following format: 
+<!--
+In this section, list what plans you have for this SIG. Describe each plan according to the following format:
 
 - **title**: context 1
 - **title 2**: context 2
@@ -40,6 +40,10 @@ For title, describe your plan in just a few words. For context, describe briefly
 - **Organize NL-RSE workshop on FAIR software**: context
 - **Organize a Five recommendations compliance sprint**: Make an inventory of our own compliance with the Five recommendations site.
 - What about software engineering
+- something related to software sustainability plans| protocols https://doi.org/10.5281/zenodo.1451750
+- should i include things like talks about RSD stuff?
+
+
 
 ## What are the expected outputs of the proposed SIG?
 <!--
