@@ -51,7 +51,7 @@ For title, describe your plan in just a few words. For context, describe briefly
 - **Internal training**: organise internal workshops to promote good practices (following the guide).
 - ~~What about software engineering~~ <-- this is part of the guide (I hope?)
 - something related to software sustainability plans| protocols https://doi.org/10.5281/zenodo.1451750 (not sure what this would be concretely)
-
+- review sustainability aspects of selected repositories
 
 ## What are the expected outputs of the proposed SIG?
 <!--
