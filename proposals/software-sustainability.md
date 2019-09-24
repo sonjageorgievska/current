@@ -23,7 +23,7 @@ The mission of your SIG should contribute to the organization’s mission.
    - continuous integration
    - software citation
    - FAIR software
-- Formulate some kind of vision on how to improve the day to day practice of developing research software at the Netherlands eScience Center.
+- Champion the Netherlands eScience Center vision on how to improve the day to day practice of developing research software. 
 - Act as a signpost for questions regarding sustainability of research software
 
 ## What GitHub repository will the SIG use?
@@ -31,7 +31,7 @@ The mission of your SIG should contribute to the organization’s mission.
 https://github.com/nlesc-sigs/software-sustainability
 
 ## What Office group will the SIG use?
-
+Software Sustainability (to be created)
 
 ## Plans for period until end of April 2020
 <!--
@@ -47,10 +47,10 @@ For title, describe your plan in just a few words. For context, describe briefly
 - **Develop content for _Five recommendations for FAIR software_ website**: context
 - **Organize NL-RSE workshop on FAIR software**: context
 - **Organize a Five recommendations compliance sprint**: Make an inventory of our own compliance with the Five recommendations site.
-- What about software engineering
-- something related to software sustainability plans| protocols https://doi.org/10.5281/zenodo.1451750
-- should i include things like talks about RSD stuff?
-- what aboot the guide
+- **Guide sprints**: organise sprints to work on updating and improving the guide
+- **Internal training**: organise internal workshops to promote good practices (following the guide).
+- ~~What about software engineering~~ <-- this is part of the guide (I hope?)
+- something related to software sustainability plans| protocols https://doi.org/10.5281/zenodo.1451750 (not sure what this would be concretely)
 
 
 ## What are the expected outputs of the proposed SIG?
@@ -61,3 +61,5 @@ help text goes here
 - Five recommendations for FAIR software site content
 - log of activity
 - Inventory of whether the software we produce meets the (minimal) standard set by the _Five recommendations_ website
+- Updated release of the guide
+- Internal workshops
