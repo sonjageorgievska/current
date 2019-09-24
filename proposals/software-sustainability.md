@@ -23,7 +23,8 @@ The mission of your SIG should contribute to the organization’s mission.
    - continuous integration
    - software citation
    - FAIR software
-- Champion the Netherlands eScience Center vision on how to improve the day to day practice of developing research software. 
+- Formulate the Netherlands eScience Center vision on how to improve the day to day practice of developing research software. 
+- Execute the Netherlands eScience Center vision on how to improve the day to day practice of developing research software.
 - Act as a signpost for questions regarding sustainability of research software
 
 ## What GitHub repository will the SIG use?
