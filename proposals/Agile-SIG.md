@@ -21,7 +21,7 @@ Agile-SIG@esciencecenter.nl (Agile SIG)
 <!--  help text goes here  -->
 - **Introduction sessions**: Familiarize ourselves with Agile, Scrum, Kanban, etc. Learn about the reasoning behind Agile, the terminology, etc. Read a book together, following an online course.
 - **Agile/Scrum in-house training**: generic Agile overview course or a more specific training such as Scrum/other.
-- **•	experience/implementation/problems-solving sessions**: Scrum masters/development team/projects owners share their problems/questions and we discuss them.
+- **Experience/implementation/problems-solving sessions**: Scrum masters/development team/projects owners share their problems/questions and we discuss them.
 
 
 ## What are the expected outputs of the proposed SIG?
