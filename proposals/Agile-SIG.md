@@ -25,9 +25,6 @@ Agile-SIG@esciencecenter.nl (Agile SIG)
 
 
 ## What are the expected outputs of the proposed SIG?
-After the first six months of the SIG we would like Agile to become common knowledge in the center. 
-
-Outputs:
 - In-house training (attracting at least 10 participants, potentially many more)
 - Blogposts
 
