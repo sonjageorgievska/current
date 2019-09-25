@@ -9,7 +9,7 @@ Agile SIG
 - Niels Drost
 
 ## What is the SIG’s mission?
-The mission of our SIG will be to introduce, teach and train in Agile methodologies. We want Agile to become common knowkedge in the center and aim for engineers/MT/DT/Operations to use it when approporiate. This will contribute to the team work within the center and to the restructuringand scaling phase we will enter in the near future.
+The mission of our SIG will be to introduce, teach and train in Agile methodologies. We want Agile to become common knowledge in the center and aim for engineers/MT/DT/Operations to use it when appropriate. This will contribute to the team work within the center and to the restructuring and scaling phase we will enter in the near future.
 
 ## What GitHub repository will the SIG use?
 https://github.com/nlesc-sigs/Agile-SIG
@@ -19,10 +19,9 @@ Agile-SIG@esciencecenter.nl (Agile SIG)
 
 ## Plans for period until end of April 2020
 <!--  help text goes here  -->
-- **Introduction sessions**: Familirize ourselves with Agile, Scrum, Kanban. The reasoning behind Agile, the terminology, etc. 
-Reading a book together, following an onlie course
-- **Agile/Scrum in-house training**: generic Agile overview course or a more spesific training such as Scrum/other.
-- **expirience/implimentation/problems-solving sessions**: Scrum masters/development team/projects owners share thier problems/questions and we disucss them.
+- **Introduction sessions**: Familiarize ourselves with Agile, Scrum, Kanban, etc. Learn about the reasoning behind Agile, the terminology, etc. Read a book together, following an online course.
+- **Agile/Scrum in-house training**: generic Agile overview course or a more specific training such as Scrum/other.
+- **•	experience/implementation/problems-solving sessions**: Scrum masters/development team/projects owners share their problems/questions and we discuss them.
 
 
 ## What are the expected outputs of the proposed SIG?
