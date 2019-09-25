@@ -19,14 +19,15 @@ Agile-SIG@esciencecenter.nl (Agile SIG)
 
 ## Plans for period until end of April 2020
 <!--  help text goes here  -->
-- **Introduction sessions**: Familiarize ourselves with Agile, Scrum, Kanban, etc. Learn about the reasoning behind Agile, the terminology, etc. Read a book together, following an online course.
-- **Agile/Scrum in-house training**: generic Agile overview course or a more specific training such as Scrum/other.
-- **Experience/implementation/problems-solving sessions**: Scrum masters/development team/projects owners share their problems/questions and we discuss them.
+- **Introduction sessions**: Familiarize ourselves with Agile, Scrum, Kanban, etc. Learn about the reasoning behind Agile, the terminology, the different roles and more. We will read a book together and/or follow an online course.
+- **Agile/Scrum in-house training**: Generic Agile or Scrum overview course given by a professional (for example, Xebia)
+- **Experience/implementation/problems-solving sessions**: Scrum masters, development team, projects owners will share their problems/questions and we discuss them.
 
 
 ## What are the expected outputs of the proposed SIG?
 - In-house training (attracting at least 10 participants, potentially many more)
 - Blogposts
+- Documentation/presentation of lessons learned  
 
 
 
