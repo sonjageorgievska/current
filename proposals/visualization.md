@@ -4,6 +4,7 @@
 ## What will be the name of the SIG
 Visualization SIG
 
+
 ## Which two persons will act as SIG Lead?
 - Maarten van Meersbergen
 - Paul Meelis (SURF/Sara)
@@ -26,26 +27,31 @@ The mission of the Visualization SIG is summarized as follows:
 - Apply acquired knowledge to NLeSC projects
 - Outreach and education of best practices and skills for employees, project partners and other interested parties
 
+
 ## What GitHub repository will the SIG use?
 https://github.com/nlesc-sigs/visualization
+
 
 ## What Office group will the SIG use?
 visualization@esciencecenter.nl
 
+
 ## Plans for period until end of April 2020
-**Related Projects**
+**Project implementation**
 We aim to apply the acquired knowledge and skills in running and new projects of the members of this SIG and report on that through blogs or visualization (see output). A few examples of running projects where visualizations play a role are:
 
-- The RECEIPT project,  has started, will run for 4 years, and will provide ample opportunities for the application of knowledge in the fields this SIG supports.
+- The RECEIPT project: Will run for 4 years, and will provide ample opportunities for the application of knowledge in the fields this SIG supports.
 
-- eWaterCycle II, explorer, forecast, results(future) blablabla
+- eWaterCycle II: Makes extensive use of visualizations in the different phases of its runtime. Examples include the [explorer](https://explore.ewatercycle.org/), the [forecast](https://forecast.ewatercycle.org/) and analysis and visualization of results(future work). 
 
 - TICCLAT 
 
 - Algorithmic Geo Visualization (Thijs van Lankveld)
 
-**Related Events**
-For all these events, it should be discussed if 'someone' in the SIG should go and report back in the form of an in-SIG presentation. A (short) written report should also be made available on the SIG GitHub page. The amount of + behind each entry gives some insight in their relative importance, the amount of $ is an indication of the cost to attend, including travel costs.
+
+**State of the Art**
+We aim to enable members of this SIG to attend relevant events, to gather state-of-the-art knowledge and share it with the group. For these events, it should be discussed if 'someone' in the SIG should go and report back in the form of an in-SIG presentation. A (short) written report should also be made available on the SIG GitHub page or as a blog. 
+Below is a collection of events we deem relevant. The amount of + behind each entry gives some insight in their relative importance, the amount of $ is an indication of the cost to attend, including travel costs.
 
 - October 11th 2019: Infographics conference in Hilversum, relevant talks on data visualization and data journalism. https://www.infographicscongres.eu/ ++ $
 
@@ -62,14 +68,14 @@ https://www.surf.nl/en/agenda/varr-out-event-virtual-and-augmented-reality-for-r
 
 - October 2020 IEEE Vis conference on cutting edge research and innovations in data visualisation in Salt Lake City, USA ++++ $$$$
 
+
 ## What are the expected outputs of the proposed SIG?
 - Presentations/blogs on the attendance of related conferences.
 - Presentations/blogs or (guide additions) on lessons learned/best practices in data visualization.
 - Organize open workshops (together with SURF) on several topics in visualization.
-- 
+ 
 
 ## What are the expected resources needed for this SIG?
 - Travel budget to visit conferences for SIG members
 - Time for SIG members to attend meetings, achieve goals and create outputs for members
-- Time for SIG leads to organize meetings, manage the SIG's process and write half yearly report/proposal
-- 
+- Time for SIG leads to organize meetings, manage the SIG's process and write half yearly report/proposal 
