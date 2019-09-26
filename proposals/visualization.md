@@ -64,12 +64,12 @@ https://www.surf.nl/en/agenda/varr-out-event-virtual-and-augmented-reality-for-r
 
 ## What are the expected outputs of the proposed SIG?
 - Presentations/blogs on the attendance of related conferences.
-- Presentations/blogs on lessons learned/best practices in data visualization.
+- Presentations/blogs or (guide additions) on lessons learned/best practices in data visualization.
 - Organize open workshops (together with SURF) on several topics in visualization.
 - 
 
 ## What are the expected resources needed for this SIG?
 - Travel budget to visit conferences for SIG members
-- Time to do stuff for members  #TODO
-- Time to organise for organizers  #TODO
+- Time for SIG members to attend meetings, achieve goals and create outputs for members
+- Time for SIG leads to organize meetings, manage the SIG's process and write half yearly report/proposal
 - 
