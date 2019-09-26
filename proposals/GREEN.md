@@ -6,7 +6,7 @@ GREEN (Group Recycling Environment Envisioning NLeSC)
 
 ## Which two persons will act as SIG Lead?
 - Jaro Camphuijsen
-- 
+- Willem van Hage
 
 ## What is the SIG’s mission?
 
@@ -33,7 +33,7 @@ Make sure it is impossible to have the Airco or radiator on while also having th
 
 Block the hottest setting of the radiators and hand out NLeSC sweaters for people that need more insulation. 
 
-Do not use Haskell 
+Consider energy use of computation
 
  
 
@@ -65,7 +65,7 @@ Organic products
 
  - **Investments**
 
-Check that the Bank NLeSC uses is climate friendly or switch to a bank like Triodos. Same for other financial service providers. 
+Check that the Bank NLeSC uses is climate friendly or switch to a bank like Triodos or ASN. Same for other financial service providers. 
 
  
 
