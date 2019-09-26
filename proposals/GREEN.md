@@ -2,35 +2,83 @@
 
 
 ## What will be the name of the SIG
-<!--  help text goes here  -->
+GREEN (Group Recycling Environment Envisioning NLeSC) 
 
 ## Which two persons will act as SIG Lead?
-<!--  help text goes here  -->
-- person the first
-- person the second
+- Jaro Camphuijsen
+- 
 
 ## What is the SIG’s mission?
-<!--  help text goes here  -->
-The mission of your SIG should contribute to the organization’s mission.
 
 ## What GitHub repository will the SIG use?
-<!--  help text goes here  -->
-https://github.com/nlesc-sigs/<some-repo>
+https://github.com/nlesc-sigs/green
 
 ## What Office group will the SIG use?
-<!--  help text goes here  -->
+green@esciencecenter.nl
 
 ## Plans for period until end of April 2020
-<!--  help text goes here  -->
-In this section, list what plans you have for this SIG. Describe each plan according to the following format: 
+- **Business (international) travelling** 
 
-- **title 1**: context 1
-- **title 2**: context 2
-- etc
+Discourage traveling
 
-For title, describe your plan in just a few words. For context, describe briefly and concretely what is the plan.
+Discourage using airplanes 
+
+Compensate CO2 
+
+ 
+
+- **Office energy consumption**
+
+Make sure it is impossible to have the Airco or radiator on while also having the window open. 
+
+Block the hottest setting of the radiators and hand out NLeSC sweaters for people that need more insulation. 
+
+Do not use Haskell 
+
+ 
+
+- **Office resource consumption**
+
+Get rid of the whole printing forms just to sign them and then scanning them again 
+
+Make sure old furniture and devices are not thrown away but reused.  
+
+ 
+
+- **Commuting** 
+
+Reflect on necessity of weekly travelling to PI location. A two monthly sprint may be much more efficient. 
+
+Encourage cycle /walking commuting and/or discourage car commuting. 
+
+  
+
+- **Food**
+
+Ban all food products from lunch that contain palm oil (=rain forest cuts),  
+
+Less animal products at lunch 
+
+Organic products 
+
+ 
+
+ - **Investments**
+
+Check that the Bank NLeSC uses is climate friendly or switch to a bank like Triodos. Same for other financial service providers. 
+
+ 
+
+- **Green NLeSC process and outreach**
+
+Collaborate with others at science park to collect knowledge and share experiences around this topic. 
+
+Think about how we can make sure the whole escience center feels involved in this and people don't just feel that they get restrictions on their personal preferences (like eating meat, feeling warm and traveling by car) by "those annoying green extremists" 
+
+Collaborate with the IS-enes project’s Carbon Footprint group 
+
+Agree on how to implement the changes mentioned above 
+
 
 ## What are the expected outputs of the proposed SIG?
-<!--  help text goes here  -->
-
 
