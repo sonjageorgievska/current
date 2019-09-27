@@ -17,7 +17,7 @@ https://github.com/nlesc-sigs/green
 green@esciencecenter.nl
 
 ## Plans for period until end of April 2020
-- **Business (international) travelling** 
+- **Business (international) traveling** 
 
 Discourage traveling
 
@@ -65,11 +65,11 @@ Organic products
 
  - **Investments**
 
-Check that the Bank NLeSC uses is climate friendly or switch to a bank like Triodos. Same for other financial service providers. 
+Check that the Bank NLeSC uses is climate friendly or switch to a bank like Triodos or ASN. Same for other financial service providers. 
 
- 
 
-- **Green NLeSC process and outreach**
+
+- **GreeNLeSC process and outreach**
 
 Collaborate with others at science park to collect knowledge and share experiences around this topic. 
 
@@ -81,4 +81,8 @@ Agree on how to implement the changes mentioned above
 
 
 ## What are the expected outputs of the proposed SIG?
-
+- Carbon footprint calculation/report
+- Proposal for changing policy of the eScience center concerning the above mentioned themes
+- Actual changes in policy of the eScience center concerning the above mentioned themes
+- Presentations at the lunch meetings to raise awareness of the whole NLeSC
+- Less CO2 and waste than we produce now
