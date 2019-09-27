@@ -6,7 +6,7 @@ GREEN (Group Recycling Environment Envisioning NLeSC)
 
 ## Which two persons will act as SIG Lead?
 - Jaro Camphuijsen
-- 
+- Willem van Hage
 
 ## What is the SIG’s mission?
 
@@ -33,7 +33,7 @@ Make sure it is impossible to have the Airco or radiator on while also having th
 
 Block the hottest setting of the radiators and hand out NLeSC sweaters for people that need more insulation. 
 
-Do not use Haskell 
+Consider energy use of computation
 
  
 
@@ -68,12 +68,11 @@ Organic products
 Check that the Bank NLeSC uses is climate friendly or switch to a bank like Triodos or ASN. Same for other financial service providers. 
 
 
-
 - **GreeNLeSC process and outreach**
 
 Collaborate with others at science park to collect knowledge and share experiences around this topic. 
 
-Think about how we can make sure the whole escience center feels involved in this and people don't just feel that they get restrictions on their personal preferences (like eating meat, feeling warm and traveling by car) by "those annoying green extremists" 
+Think about how we can make sure the whole eScience center feels involved in this and people don't just feel that they get restrictions on their personal preferences (like eating meat, feeling warm and traveling by car) by "those annoying green extremists" 
 
 Collaborate with the IS-enes project’s Carbon Footprint group 
 
