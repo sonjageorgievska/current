@@ -52,11 +52,11 @@ The following should be interpreted as a Could-do list:
   there are people in the Center who know how to develop research software
   'properly'; on the other hand, whether things are done properly in practice
   depends largely on the skill and willingness of the (one) engineer that is
-  working on a given project. Furthermore, it is unclear how much insight line
+  working on a given project. Furthermore, it is unclear how much insight line|project
   managers have into sustainability aspects of the software we develop; it may
-  depend largely on who the line manager is, and how they balance sustainability
+  depend largely on who the manager is, and how they balance sustainability
   aspects with doing just enough to be able to write the next paper. We should
-  figure out what is keeping our engineers from striving to implement NLeSC
+  figure out what is keeping our engineers from striving to contribute to NLeSC's
   mission, as opposed to the PI's mission. One possibility of getting a handle
   on this is through interviews.
 - **Develop content for _Five recommendations for FAIR software_ website**
