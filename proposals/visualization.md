@@ -7,7 +7,7 @@ Visualization SIG
 
 ## Which two persons will act as SIG Lead?
 - Maarten van Meersbergen
-- Paul Meelis (SURF/Sara)
+- Paul Melis (SURF/Sara)
 - Jaro Camphuijsen
 
 
@@ -40,11 +40,11 @@ visualization@esciencecenter.nl
 **Project implementation**
 We aim to apply the acquired knowledge and skills in running and new projects of the members of this SIG and report on that through blogs or visualization (see output). A few examples of running projects where visualizations play a role are:
 
-- The RECEIPT project: Will run for 4 years, and will provide ample opportunities for the application of knowledge in the fields this SIG supports.
+- The RECEIPT project: Will run for 4 years, and will provide ample opportunities for the application of knowledge in the fields this SIG supports. Of special note are Data Journalism skills and techniques.
 
 - eWaterCycle II: Makes extensive use of visualizations in the different phases of its runtime. Examples include the [explorer](https://explore.ewatercycle.org/), the [forecast](https://forecast.ewatercycle.org/) and analysis and visualization of results(future work). 
 
-- TICCLAT 
+- TICCLAT: The PI is interested in showing the results and workings of the OCR post-correction developed in the project, as well as additional uses for the database created.
 
 - Algorithmic Geo Visualization (Thijs van Lankveld)
 
@@ -77,5 +77,6 @@ https://www.surf.nl/en/agenda/varr-out-event-virtual-and-augmented-reality-for-r
 
 ## What are the expected resources needed for this SIG?
 - Travel budget to visit conferences for SIG members
+- Time/Budget/PR to prepare and give workshops
 - Time for SIG members to attend meetings, achieve goals and create outputs for members
 - Time for SIG leads to organize meetings, manage the SIG's process and write half yearly report/proposal 
