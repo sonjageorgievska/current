@@ -15,16 +15,15 @@ Software Sustainability SIG
 The mission of your SIG should contribute to the organization’s mission.
 -->
 
-
-- Sharing knowledge about best practices regarding research software development, specifically in relation to:
+- Sharing knowledge about best practices regarding research software development,
+e.g. in relation (but not limited) to:
    - code quality
    - version control
+   - software engineering
    - testing
    - continuous integration
    - software citation
    - FAIR software
-- Formulate the Netherlands eScience Center vision on how to improve the day to day practice of developing research software. 
-- Execute the Netherlands eScience Center vision on how to improve the day to day practice of developing research software.
 - Act as a signpost for questions regarding sustainability of research software
 
 ## What GitHub repository will the SIG use?
@@ -45,14 +44,35 @@ In this section, list what plans you have for this SIG. Describe each plan accor
 For title, describe your plan in just a few words. For context, describe briefly and concretely what is the plan.
 -->
 
-- **Develop content for _Five recommendations for FAIR software_ website**: context
-- **Organize NL-RSE workshop on FAIR software**: context
-- **Organize a Five recommendations compliance sprint**: Make an inventory of our own compliance with the Five recommendations site.
-- **Guide sprints**: organise sprints to work on updating and improving the guide
-- **Internal training**: organise internal workshops to promote good practices (following the guide).
-- ~~What about software engineering~~ <-- this is part of the guide (I hope?)
-- something related to software sustainability plans| protocols https://doi.org/10.5281/zenodo.1451750 (not sure what this would be concretely)
-- review sustainability aspects of selected repositories
+The following should be interpreted as a Could-do list:
+
+- **Improve the process by which we develop research software** Formulate and
+  subsequently execute the Netherlands eScience Center vision on how to improve
+  the day to day practice of developing research software. On the one hand,
+  there are people in the Center who know how to develop research software
+  'properly'; on the other hand, whether things are done properly in practice
+  depends largely on the skill and willingness of the (one) engineer that is
+  working on a given project. Furthermore, it is unclear how much insight line
+  managers have into sustainability aspects of the software we develop; it may
+  depend largely on who the line manager is, and how they balance sustainability
+  aspects with doing just enough to be able to write the next paper. We should
+  figure out what is keeping our engineers from striving to implement NLeSC
+  mission, as opposed to the PI's mission. One possibility of getting a handle
+  on this is through interviews.
+- **Develop content for _Five recommendations for FAIR software_ website**
+  Together with DANS, NLeSC is developing a website with recommendations for
+  researchers and RSEs about good practices for developing research software.
+  This SIG will propose and evaluate the content for said site.
+- **Organize NL-RSE workshop on FAIR software** The SIG will organize a workshop
+  at the NL-RSE Conference, where participants can bring their own software and
+  make it more FAIR during the session.
+- **Organize a Five recommendations compliance sprint** Make an inventory of our
+  own compliance with the Five recommendations site.
+- **Organize internal training**: organize internal workshops to promote good
+  practices (following the guide).
+- **Organize reviews** The SIG will organize short code reviews during which we
+  will evaluate sustainability aspects of selected repositories, as used in our
+  projects.
 
 ## What are the expected outputs of the proposed SIG?
 <!--
@@ -61,6 +81,7 @@ help text goes here
 
 - Five recommendations for FAIR software site content
 - log of activity
-- Inventory of whether the software we produce meets the (minimal) standard set by the _Five recommendations_ website
+- Inventory of whether the software we produce meets the (minimal) standard set
+  by the _Five recommendations_ website
 - Updated release of the guide
 - Internal workshops
