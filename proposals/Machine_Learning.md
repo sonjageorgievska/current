@@ -32,9 +32,9 @@ In this section, list what plans you have for this SIG. Describe each plan accor
 
 - **Form**: Bi-weekly sessions on Mondays at 11-12  
 - **Content**: Sessions time is usually divided between discussing issues in projects (if any) and following a video talk of a topic of current interest 
-- **Sprint** Organize a workshop on ML for research, where the participants are scientists with limited ML exposure and lots of data. Time: January 20-24
+- **Sprint**: Organize a workshop on ML for research, where the participants are scientists with limited ML exposure and lots of data. Time: January 20-24
 
-For title, describe your plan in just a few words. For context, describe briefly and concretely what is the plan.
+
 
 ## What are the expected outputs of the proposed SIG?
 <!--  help text goes here  -->
