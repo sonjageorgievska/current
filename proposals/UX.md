@@ -7,7 +7,7 @@ UX - Human Computer Interaction
 
 ## Which two persons will act as SIG Lead?
 <!--  help text goes here  -->
-- Jesu Garcia Gonzalez
+- Jesus Garcia Gonzalez
 - person the second
 
 ## What is the SIG’s mission?
@@ -33,7 +33,9 @@ For title, describe your plan in just a few words. For context, describe briefly
 
 ## What are the expected outputs of the proposed SIG?
 - Define a common tone of voice
+- Common desing system and presentation
 - Prioriitize usability and accebility of the applications
 - Create an impact
+- Creative seasons, ideas
 
 
