@@ -3,6 +3,7 @@
 
 ## What will be the name of the SIG
 UX - Human Computer Interaction
+![Creativity](https://positivepsychology.com/wp-content/uploads/boost-your-creativity.jpg "Creativity")
 
 ## Which two persons will act as SIG Lead?
 <!--  help text goes here  -->
@@ -31,6 +32,8 @@ In this section, list what plans you have for this SIG. Describe each plan accor
 For title, describe your plan in just a few words. For context, describe briefly and concretely what is the plan.
 
 ## What are the expected outputs of the proposed SIG?
-<!--  help text goes here  -->
+- Define a common tone of voice
+- Prioriitize usability and accebility of the applications
+- Create an impact
 
 
