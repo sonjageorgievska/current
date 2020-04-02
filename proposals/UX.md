@@ -40,5 +40,9 @@ For title, describe your plan in just a few words. For context, describe briefly
 
 ## Todo
 - Secure badget for workshops and trainning during the year accross all disciplines
+- UX Cycles
+- Service design
+- Tone of voice
+- Story Telling
 
 
