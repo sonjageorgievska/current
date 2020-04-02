@@ -38,4 +38,7 @@ For title, describe your plan in just a few words. For context, describe briefly
 - Create an impact
 - Creative seasons, ideas
 
+## Todo
+- Secure badget for workshops and trainning during the year accross all disciplines
+
 
