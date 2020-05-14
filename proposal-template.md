@@ -8,11 +8,12 @@
 ## Which two persons will act as SIG Lead?
 <!--  Please make sure to have two SIG leads to reduce bus factor.
       SIG leads are allowed to write the hours dedicated to organizing
-      SIG activities under the  XXX budget:
-        Account:
-        Project:
-        Hour type:
-        Notes:
+      SIG activities under the R&D budget. Please in the notes mention the
+      name of your SIG:
+        Account: 000104
+        Project: 000104
+        Hour type: 00071
+        Notes: Hours for X SIG
        -->
 - person the first
 - person the second
