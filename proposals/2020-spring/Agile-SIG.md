@@ -22,7 +22,7 @@ Agile-SIG@esciencecenter.nl (Agile SIG)
 
 ## SIG outcomes in the period October 2019 - April 2020 (for existing SIGs)
 
-As a new SIG on a new topic, the Agile SIG has started with hosting a number of presentations from member to explain exactly what Agile is, and how this is applied at the eScience Center already.
+As a new SIG on a new topic, the Agile SIG has started with hosting a number of presentations from members to explain exactly what Agile is, and how this is applied at the eScience Center already.
 
 The Agile SIG has become the discussion platform for how to succesfully apply Agile methods to working at the eScience Center. Due to the Corona crisis, involvement of external people was postponed.
 
