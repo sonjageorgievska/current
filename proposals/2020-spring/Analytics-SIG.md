@@ -30,7 +30,7 @@ Analytics@esciencecenter.nl
 
 ## Plans for the period until the end of October 2020
 
-- **Monthly presentations**: Continuing the monthly meetings with 30min presentations. We aim for monthly interactive meetings where diverse speakers from in and outside the center present a topic. The topic can be either an introduction into a technique or an application where advanced analytical methods played a pivotal role. Some of the planned/upcoming meetings are:
+**Monthly presentations**: Continuing the monthly meetings with 30min presentations. We aim for monthly interactive meetings where diverse speakers from in and outside the center present a topic. The topic can be either an introduction into a technique or an application where advanced analytical methods played a pivotal role. Some of the planned/upcoming meetings are:
 
 - 17 Feb. complex systems
 - 25 May. confidence intervals
@@ -41,13 +41,13 @@ Analytics@esciencecenter.nl
 
 We update the status of the meetings at [Analytics-SIG/Meeting planning](https://github.com/NLeSC/Analytics-SIG/projects/1) on github.
 
-- **Training**: Following a tutorial or an (online) course on a more specific topic in two-weekly meetings. The selected topics are:
+**Training**: Following a tutorial or an (online) course on a more specific topic in two-weekly meetings. The selected topics are:
 
 - network theory
 - statistics of machine/deep learning
 - data cleaning/integration and making AI-ready data
 
-- **Regular meeting with Tech leads**: We organized at least one meeting per each SIG period to discuss topics that are related to the technological strategy, and the project demands. The meeting is planned as:
+**Regular meeting with Tech leads**: We organized at least one meeting per each SIG period to discuss topics that are related to the technological strategy, and the project demands. The meeting is planned as:
 
 - 14 May. discussion on SIG survey results and interested topics
 
