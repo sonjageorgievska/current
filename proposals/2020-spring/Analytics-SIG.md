@@ -41,7 +41,7 @@ Analytics@esciencecenter.nl
 
 We update the status of the meetings at [Analytics-SIG/Meeting planning](https://github.com/NLeSC/Analytics-SIG/projects/1) on github.
 
-- **Training**: Following a tutorial or an (online) course on a more specific topic in two-weekly meetings. The interested topics are:
+- **Training**: Following a tutorial or an (online) course on a more specific topic in two-weekly meetings. The selected topics are:
 
 - network theory
 - statistics of machine/deep learning
@@ -53,7 +53,7 @@ We update the status of the meetings at [Analytics-SIG/Meeting planning](https:/
 
 ## What are the expected outputs of the proposed SIG?
 
-- Internal training on a specific topic mentioned above
+- Internal training on a specific topic (mentioned above)
 - Sharing knowledge on statistics (at basic/intermediate level)
 - Transfer of knowledge by inviting external speakers
 - Keeping a portfolio of expertise in analytics at the center
