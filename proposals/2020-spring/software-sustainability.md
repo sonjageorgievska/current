@@ -27,7 +27,7 @@ softwaresustainability@esciencecenter.nl
 
 ## SIG outcomes in the period October 2019 - April 2020 (for existing SIGs)
 In the period October 2019 - April 2020 the SIG has:
- - Develop content for _Five recommendations for FAIR software_ website, launched during eScience symposium 2019
+ - Developed content for _Five recommendations for FAIR software_ website, launched during eScience symposium 2019
  - Organised a FAIR software workshop at NL-RSE 2019
  - Organised internal training on GitHub, software citation, RSD and continuous integration
  - Organised two internal guide sprints
