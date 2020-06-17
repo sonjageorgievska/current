@@ -28,12 +28,12 @@ https://github.com/nlesc-sigs/soft-skills
 
 ## What is the Office group that the SIG uses?
 Office group:\
-Soft-Skill SIG [channel](https://teams.microsoft.com/l/team/19%3ab6082594f90a4f7d9b9b4521f5b7eb91%40thread.tacv2/conversations?groupId=c373a0f6-88c9-47d6-b318-cd998d7efa51&tenantId=aa3aeacc-6307-42b2-ac05-787dd5c32574). 
+Soft-Skill SIG [channel](https://teams.microsoft.com/l/team/19%3ab6082594f90a4f7d9b9b4521f5b7eb91%40thread.tacv2/conversations?groupId=c373a0f6-88c9-47d6-b318-cd998d7efa51&tenantId=aa3aeacc-6307-42b2-ac05-787dd5c32574).
 
 Email address: \
  <soft-skills@esciencecenter.nl> \
 
-## SIG outcomes in the period October 2019 - April 2020 
+## SIG outcomes in the period October 2019 - April 2020
 <!--  As a simple list of activities in this period is enough.  -->
 
 We have had seven SIG sessions from 30/01/2020 up to the time of this writing. Main achievements are:\
@@ -50,10 +50,10 @@ We have had seven SIG sessions from 30/01/2020 up to the time of this writing. M
 	* Presentation skills, a session devoted to receiving advice from more experienced SIGers in the art of talking to large audiences (see [Minutes](https://github.com/nlesc-sigs/soft-skills/blob/master/docs/Meeting_minutes/Minutes%202020-05-14.docx) for main conclusions).
 
 	* Interpersonal communication skills. On 12/03/2020, we received a 1-hour external coaching session by Michelle van den Berg on Non-Violent Communication (NVC). This activity rose the awareness of the participants on the topic and fostered some extra-SIG activities aimed to train NVC.\
-	
+
 \
 
-* List of useful resources related to [Soft-Skill development](https://nlesc.sharepoint.com/:w:/s/soft-skills/EYtPjfBzJaJJpuF-jERpkwoBG2tNwMx1023MffD9HwTcgA?e=z90Fpi). 
+* List of useful resources related to [Soft-Skill development](https://nlesc.sharepoint.com/:w:/s/soft-skills/EYtPjfBzJaJJpuF-jERpkwoBG2tNwMx1023MffD9HwTcgA?e=z90Fpi).
 
 ## Plans for the period until the end of October 2020
 <!--  help text goes here  -->
@@ -65,7 +65,7 @@ For the title, describe your plan in just a few words. For the context, describe
 
 \
 
-- **Organize role-playing activities to train conflict resolution skills**: As described previously, we would like to stir activities that will broaden the awareness across the Center about the importance of Non-Violent communication. Jens, Pablo L. And Willem are currently working on playing scripts and organising a periodic activity..
+- **Organize role-playing activities to train conflict resolution skills**: As described previously, we would like to stir activities that will broaden the awareness across the Center about the importance of Non-Violent communication. Jens, Pablo L. And Willem are currently working on playing scripts and organising a periodic activity.
 
 \
 
@@ -75,8 +75,8 @@ For the title, describe your plan in just a few words. For the context, describe
 ## What are the expected outputs of the proposed SIG?
 <!--  help text goes here  -->
 
-Our main focus for the next period is to continue providing a confortable place for people to share knowledge and experience on Soft-Skills.
- 
+Our main focus for the next period is to continue providing a comfortable place for people to share knowledge and experience on Soft-Skills.
+
 Also, aligned with the previous section, we will provide:
  * A short how-to document on conflict resolution.  
  * A periodic role-playing activity in order to train conflict resolution skills.
