@@ -17,7 +17,7 @@ https://github.com/nlesc-sigs/data-sig
 ldm@esciencecenter.nl
 
 ## SIG outcomes in the period October 2019 - April 2020 (for existing SIGs)
-In the period October 2019 - April 2020 the SIG discussed data management tools: 'GraphQL on AWS and AWS' and 'Using grlc on YeSA project'; we also had a guest talk on	'SURF Data services' by Hans van Piggelen.
+In the period October 2019 - April 2020 the SIG discussed data management tools: 'GraphQL on AWS and AWS', 'Using grlc on YeSA project' as well as discussion on the design of FAIR data point; we also had a guest talk on	'SURF Data services' by Hans van Piggelen.
 
 ## Plans for the period until the end of October 2020
 - **Issue tracking**: the data-sig will come together once per month to discuss data issues, challenges and solutions submitted on github.
