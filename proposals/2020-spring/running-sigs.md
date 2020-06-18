@@ -13,5 +13,9 @@ This is an overview of approved SIGs in the spring 2020 round.
 | [Software Sustainability](software-sustainability.md) | Mateusz & Carlos
 | [Visualization](visualization.md)      | Maarten, Jaro & Paul Melis (SURF/Sara)
 
-Numerical Techniques SIG stopped, in the period October 2019 - April 2020 the SIG did:
- - ?
+Numerical Techniques SIG stopped, in the period October 2019 - April 2020 the SIG reviewed several numerical algorithms and implementations:
+ - The Jacobi-Davidson method for solving large eigenvalue problems
+ - In time parallelization of partial differential equations
+ - Linear solvers for large sparse systems
+ - Poisson solvers
+ - Optimization of quantum Monte-Carlo wave functions using neural network with Pytorch
