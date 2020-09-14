@@ -1,4 +1,4 @@
-# Approved SIGs - Spring 2002
+# Approved SIGs - Spring 2020
 This is an overview of approved SIGs in the spring 2020 round.
 
 | SIG name | SIG leads |
