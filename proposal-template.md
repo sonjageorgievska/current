@@ -29,10 +29,10 @@ https://github.com/nlesc-sigs/<some-repo>
 ## What is the Office group that the SIG uses?
 <!--  help text goes here  -->
 
-## SIG outcomes in the period October 2019 - April 2020 (for existing SIGs)
+## SIG outcomes in the period April 2020 - October 2020 (for existing SIGs)
 <!--  As a simple list of activities in this period is enough.  -->
 
-## Plans for the period until the end of October 2020
+## Plans for the period until the end of April 2021
 <!--  help text goes here  -->
 In this section, list what plans you have for this SIG. Describe each plan according to the following format:
 
@@ -42,5 +42,5 @@ In this section, list what plans you have for this SIG. Describe each plan accor
 
 For the title, describe your plan in just a few words. For the context, describe briefly and concretely what is the plan.
 
-## What are the expected outputs of the proposed SIG?
-<!--  help text goes here  -->
+## What are the expected outputs of the SIG?
+<!--  Think of internal as welll as external disemination targets -->
