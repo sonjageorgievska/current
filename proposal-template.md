@@ -1,46 +1,46 @@
 # Application form for starting/continuing a SIG
 
 ## What is/will be the name of the SIG?
-<!--  Pick a name that reflects the goal of the SIG.
-      Make it specific enough to be meaningful,
-      but broad enough to give you room  to shift focus when necessary.  -->
+Software Sustainability SIG (S^3)
 
 ## Which two persons will act as SIG Leads?
-<!--  Please make sure to have two SIG leads to reduce bus factor.
-      SIG leads are allowed to write the hours dedicated to organizing
-      SIG activities under the R&D budget. Please mention in the notes the
-      name of your SIG:
-        Account: 000104
-        Project: 020203
-        Hour type: 00071
-        Notes: Hours for X SIG
-       -->
-- the first person
-- the second person
+- Mateusz Kuzak
+- Carlos Martinez-Ortiz
 
 ## What is SIG’s mission?
-<!--  help text goes here  -->
-The mission of your SIG should align with the organization’s mission.
+Sharing knowledge about best practices regarding research software development,
+e.g. in relation (but not limited) to:
+   - code quality
+   - version control
+   - software engineering
+   - testing
+   - continuous integration
+   - software citation
+   - FAIR software
+- Act as a signpost for questions regarding sustainability of research software
 
 ## What is the GitHub repository of the SIG use?
-<!--  Please transfer your SIG existing repo to this GitHub organization  -->
-https://github.com/nlesc-sigs/<some-repo>
+https://github.com/nlesc-sigs/software-sustainability
 
 ## What is the Office group that the SIG uses?
-<!--  help text goes here  -->
+softwaresustainability@esciencecenter.nl
 
 ## SIG outcomes in the period April 2020 - October 2020 (for existing SIGs)
-<!--  As a simple list of activities in this period is enough.  -->
+- Wrote a proposal "Software sustainability in the new structure of the eScience Center" as an input for restructuring teams.
+- Coordinated contributions to the Turing Way
+- Organised Guide / Turing Way sprints
+- Reviewed practices around Code Review
+- Initialised the development of Agile Lesson by Agile SIG
+- Developed Reusability Checklist
+
 
 ## Plans for the period until the end of April 2021
-<!--  help text goes here  -->
-In this section, list what plans you have for this SIG. Describe each plan according to the following format:
-
-- **title 1**: context 1
-- **title 2**: context 2
-- etc
-
-For the title, describe your plan in just a few words. For the context, describe briefly and concretely what is the plan.
+- **Organise Reusabilathon**: Organize sprint in which we evaluate selected eScience Center Software based on reusability checklist.
+- **Organize internal training**: organize internal workshops to promote good
+  practices (following the guide).
+- **Guide sprints** organise sprints to work on the eScience center guide and further integrate it with The Turing Way.
 
 ## What are the expected outputs of the SIG?
-<!--  Think of internal as welll as external disemination targets -->
+- meeting notes
+- reusability evaluation of software
+- contributions to the Guide and the Turing Way
