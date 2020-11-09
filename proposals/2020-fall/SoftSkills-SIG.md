@@ -40,10 +40,8 @@ Soft-Skill SIG [channel](https://teams.microsoft.com/l/team/19%3ab6082594f90a4f7
 ## Plans for the period until the end of April 2021
 <!--  help text goes here  -->
 - **Profit from the Soft-Skill knowledge that we already have at the eScience Center**: For this period we would like to be focused on the sharing part of the Soft-Skill SIG. We are convinced that there is already a lot of soft-skill knowledge among the eScience Center employees. Our purpose is to organise specific topic sessions with special invitees (from HR, MT, Support Team ...) not only to share this knowledge but also to identify niches of improvement where the Soft-Skill SIG can help. We already have two sessions on mind:
-
--- **Session on coaching from the LM perspective** (scheduled for 19/11): We would like to know more about how line-managers coach their supervised engineers.
-
--- **Session on networking** (planned for the beginning of 2021): We would like to invite community managers to share experience and tips on how to maintain and strengthen a network. 
+**Session on coaching from the LM perspective** (scheduled for 19/11): We would like to know more about how line-managers coach their supervised engineers.
+**Session on networking** (planned for the beginning of 2021): We would like to invite community managers to share experience and tips on how to maintain and strengthen a network. 
 
 
 ## What are the expected outputs of the SIG?
