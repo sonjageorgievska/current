@@ -33,7 +33,7 @@ Soft-Skill SIG [channel](https://teams.microsoft.com/l/team/19%3ab6082594f90a4f7
 ## SIG outcomes in the period April 2020 - October 2020 (for existing SIGs)
 <!--  As a simple list of activities in this period is enough.  -->
 * We have provided a place where participants feel comfortable to share knowledge and experiences related to Soft-Skills (our main target).
-* We have written a conflict resolution doc that potentially will be merged with the Precomplaint protocol. This document is a compilation of useful resources and guidance about what to do in a given conflict situation at the Center.
+* We have written a conflict resolution document that potentially will be merged with the Precomplaint protocol. This document is a compilation of useful resources and guidance about what to do in a given conflict situation at the Center.
 * We have revised the colloquium format, so now we will have, for instance, an official colloquium moderator and optional feedback for presenters. The new format is pending to be published at the QI. 
 
 
