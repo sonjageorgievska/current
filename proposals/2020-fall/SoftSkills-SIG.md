@@ -48,5 +48,5 @@ Soft-Skill SIG [channel](https://teams.microsoft.com/l/team/19%3ab6082594f90a4f7
 <!--  Think of internal as well as external dissemination targets -->
 Our main focus for the next period is to continue providing a comfortable place for people to share knowledge and experience on Soft-Skills.
 
-We would like to identify organisation areas liked to soft-skills that might need improvement. This can imply the writing of protocol document as we did with the new colloquium format (liked to presentation skills) and the first-aid protocol (liked to non-violent communication) explained above.
+We would like to identify organisation areas liked to soft-skills that might need improvement. This can imply the writing of protocol document as we did with the new colloquium format (liked to presentation skills) and the first-aid protocol (liked to non-violent communication) as explained above.
 
