@@ -1,48 +1,49 @@
+
+
+
 # Application form for starting a SIG
 
 
 ## What will be the name of the SIG
-UX - Human Computer Interaction
-![Creativity](https://positivepsychology.com/wp-content/uploads/boost-your-creativity.jpg "Creativity")
+
+User Experience SIG:  **UX-SIG**
+![Creativity](https://positivepsychology.com/wp-content/uploads/boost-your-creativity.jpg _"Creativity"_)
 
 ## Which two persons will act as SIG Lead?
-<!--  help text goes here  -->
-- Jesus Garcia Gonzalez
-- person the second
 
-## What is the SIG’s mission?
-<!--  help text goes here  -->
-The mission of your SIG should contribute to the organization’s mission.
+- Jesus Garcia Gonzalez
+- Sven van der Burg
+
+
+## What is the SIG's mission?
+
+<!-- The mission of your SIG should contribute to the organization's mission. -->
+
+The SIG aims to start slowly expanding the knowledge and the importance of Human-centric design and best User Experience techniques within our organization and research projects, especially when developing software. 
+Visualization and presentation are also substantial parts of the SIG, improving seamless guidelines and keeping an eye on consistency and best practices following the eScience branding and communication guidelines. During the SIG meetings, the focus will be on providing design critiques to existing projects, analyzing the design and procedures, and giving feedback to the team members.
 
 ## What GitHub repository will the SIG use?
-<!--  help text goes here  -->
-https://github.com/nlesc-sigs/<some-repo>
+To be created
 
 ## What Office group will the SIG use?
-<!--  help text goes here  -->
+UX-SIG, ux@esciencecenter.nl (to be created)
 
-## Plans for period until end of April 2020
-<!--  help text goes here  -->
-In this section, list what plans you have for this SIG. Describe each plan according to the following format: 
+## Plans for period until the end of April 2020
 
-- **Design Creitiques for current projects**: Presentation and discussion about accesibility, usability and presentation of the projects at any stage of the project, specially before publishing it. 
-- **title 2**: context 2
-- etc
+- **Design Critiques for current projects**:  encouraging a positive culture to improve projects. Analyze the design of the project's user journey, usability, accessibility, interaction, visualization, and presentation, and give feedback to team members. While making sure of keeping  a **Clear scope for the conversation",   "Agreed-upon design objectives for the work."  and motivating "Conversation rather than command." One project per Meeting. 
 
-For title, describe your plan in just a few words. For context, describe briefly and concretely what is the plan.
-
+- **Proportionate UX tools and resources**: from tools for ideation, wireframing and prototyping, to resources for best practices and design patterns.
+ 
 ## What are the expected outputs of the proposed SIG?
-- Define a common tone of voice
-- Common desing system and presentation
-- Prioriitize usability and accebility of the applications
-- Create an impact
-- Creative seasons, ideas
 
-## Todo
-- Secure badget for workshops and trainning during the year accross all disciplines
-- UX Cycles
-- Service design
-- Tone of voice
-- Story Telling
+- **Design Thinking workshops**:  a Design Thinking workshop is a hands-on, activity-based session built around the Design Thinking process.
 
-
+- **Contributions to eScience Center Guide** on the following topics:
+	-   Research / User testing
+	-   Persona / Empathy map
+	-   Information architecture
+	-   Wireframe creation
+	-   Style guide creation (or UI template)
+	-   Visual design
+	-   Prototyping
+ 
