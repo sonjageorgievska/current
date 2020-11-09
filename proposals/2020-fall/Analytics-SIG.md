@@ -30,6 +30,8 @@ The mission of this SIG in the broadest sense, is to raise general knowledge on 
 Analytics@esciencecenter.nl
 
 ## SIG outcomes in the period April 2020 - October 2020 (for existing SIGs)
+On May 14th we had a meeting were discussed the outcomes of the survey among the Analytics SIG members. 
+
 We had the following presentations:
 - May 11: Johan Hidding - "Complex Systems"
 - May 25th: Hanno Spreeuw - "Confidence intervals"
@@ -43,12 +45,13 @@ In the remaining sessions, we worked through chapter 2.6 in the book [A first co
 ## Plans for the period until the end of April 2021
 
 - **Network Science course**: We continue working on the book [A first course in network science](https://www.cambridge.org/highereducation/books/a-first-course-in-network-science/EE22722F27519D8BB1443C7225C57BAF)
-- **Monthly presentations**: Continuing the monthly meetings with 30min presentations. We aim for monthly interactive meetings where diverse speakers from in and outside the center present a topic. The topic can be either an introduction into a technique or an application where advanced analytical methods played a pivotal role. Some of the planned/upcoming meetings are:
-- TODO
+- **Monthly presentations**: Continuing the monthly meetings with 30min presentations. We aim for monthly interactive meetings where diverse speakers from in and outside the center present a topic. The topic can be either an introduction into a technique or an application where advanced analytical methods played a pivotal role. The planned/upcoming meetings will be posted on the [Analytics SIG github page](https://github.com/NLeSC/Analytics-SIG).
+- **Organize small hackaton** We choose a dataset and technique that we want to explore and organize a small (1 day?) hackaton around this
 
 Some of the topics we want to explore are:
 - Network Science
 - Data cleaning for AI, e.g. filling missing values
+- Numerical computational techniques
 
 ## What are the expected outputs of the SIG?
 - Internal training on a specific topic (mentioned above)
@@ -56,5 +59,3 @@ Some of the topics we want to explore are:
 - Transfer of knowledge by inviting external speakers
 - Keeping a portfolio of expertise in analytics at the center
 - Making a collection of tools and resources
-- Contributing to Zenodo:
-  - slide presentations
