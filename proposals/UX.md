@@ -1,13 +1,9 @@
-
-
-
 # Application form for starting a SIG
-
 
 ## What will be the name of the SIG
 
 User Experience SIG:  **UX-SIG**
-![Creativity](https://positivepsychology.com/wp-content/uploads/boost-your-creativity.jpg _"Creativity"_)
+![Creativity](https://positivepsychology.com/wp-content/uploads/boost-your-creativity.jpg)
 
 ## Which two persons will act as SIG Lead?
 
