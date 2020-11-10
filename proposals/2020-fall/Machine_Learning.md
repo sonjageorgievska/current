@@ -1,9 +1,7 @@
 # Application form for starting/continuing a SIG
 
 ## What is/will be the name of the SIG?
-<!--  Pick a name that reflects the goal of the SIG.
-      Make it specific enough to be meaningful,
-      but broad enough to give you room  to shift focus when necessary.  -->
+Machine Learning
 
 ## Which two persons will act as SIG Leads?
 <!--  Please make sure to have two SIG leads to reduce bus factor.
@@ -15,32 +13,41 @@
         Hour type: 00071
         Notes: Hours for X SIG
        -->
-- the first person
-- the second person
+- Sonja Georgievska
+- Florian Huber
 
 ## What is SIG’s mission?
 <!--  help text goes here  -->
-The mission of your SIG should align with the organization’s mission.
+* Keep up to date with machine learning techniques necessary for the current and future NLeSc projects
+* Discuss current projects that involve machine learning and provide guidance on chooosing suitable methods and tools
+* Advice other scientist on feasibility regarding applying ML methods on their data
 
 ## What is the GitHub repository of the SIG use?
 <!--  Please transfer your SIG existing repo to this GitHub organization  -->
-https://github.com/nlesc-sigs/<some-repo>
+https://github.com/NLeSC/Machine_Learning_SIG 
 
 ## What is the Office group that the SIG uses?
 <!--  help text goes here  -->
+mlpr@esciencecenter.nl
 
 ## SIG outcomes in the period April 2020 - October 2020 (for existing SIGs)
 <!--  As a simple list of activities in this period is enough.  -->
 
+- **Form**: Bi-weekly sessions on Mondays at 11-12  
+- **Content**: Sessions time is usually divided between discussing issues in projects (if any) and following a topic of current interest
 ## Plans for the period until the end of April 2021
 <!--  help text goes here  -->
 In this section, list what plans you have for this SIG. Describe each plan according to the following format:
 
-- **title 1**: context 1
-- **title 2**: context 2
-- etc
+- **Bussiness as usual**: continue as so far
+- **ML2021**: organize the possible Machine Learning 2021 small-scale projects initiative
+
 
 For the title, describe your plan in just a few words. For the context, describe briefly and concretely what is the plan.
 
 ## What are the expected outputs of the SIG?
 <!--  Think of internal as welll as external disemination targets -->
+* Increased knowledge in ML techniques in the center
+* Better awareness of current ML expertise in the center
+* Increased visibility in the scientific community
+
