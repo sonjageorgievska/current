@@ -34,12 +34,12 @@ Soft-Skill SIG [channel](https://teams.microsoft.com/l/team/19%3ab6082594f90a4f7
 <!--  As a simple list of activities in this period is enough.  -->
 * We have provided a place where participants feel comfortable to share knowledge and experiences related to Soft-Skills (our main target).
 * We have written a conflict resolution document that potentially will be merged with the Precomplaint protocol. This document is a compilation of useful resources and guidance about what to do in a given conflict situation at the Center.
-* We have revised the colloquium format, so now we will have, for instance, an official colloquium moderator and optional feedback for presenters. The new format is pending to be published at the QI. 
+* We have revised the colloquium format. Now we will have an official colloquium moderator and optional feedback for presenters, among other novelties. The new format is pending to be published at the QI. 
 
 
 ## Plans for the period until the end of April 2021
 <!--  help text goes here  -->
-- **Profit from the Soft-Skill knowledge that we already have at the eScience Center**: For this period we would like to be focused on the sharing part of the Soft-Skill SIG. We are convinced that there is already a lot of soft-skill knowledge among the eScience Center employees. Our purpose is to organise specific topic sessions with special invitees (from HR, MT, Support Team ...) not only to share this knowledge but also to identify niches of improvement where the Soft-Skill SIG can help. We already have two sessions on mind:
+- **Profit from the Soft-Skill knowledge that we already have at the eScience Center**: For this period we would like to be focused on the sharing part of the Soft-Skill SIG. We know there is already a lot of soft-skill knowledge among the eScience Center employees. Our purpose is to organise specific topic sessions with special invitees (from HR, MT, Support Team ...) not only to share this knowledge but also to identify niches of improvement where the Soft-Skill SIG can help. We already have two sessions on mind:
     - **Session on coaching from the LM perspective** (scheduled for 19/11): We would like to know more about how line-managers coach their supervised engineers.
     - **Session on networking** (planned for the beginning of 2021): We would like to invite community managers to share experience and tips on how to maintain and strengthen a network. 
 
@@ -48,5 +48,5 @@ Soft-Skill SIG [channel](https://teams.microsoft.com/l/team/19%3ab6082594f90a4f7
 <!--  Think of internal as well as external dissemination targets -->
 Our main focus for the next period is to continue providing a comfortable place for people to share knowledge and experience on Soft-Skills.
 
-We would like to identify organisation areas liked to soft-skills that might need improvement. This can imply the writing of protocol document as we did with the new colloquium format (liked to presentation skills) and the first-aid protocol (liked to non-violent communication) as explained above.
+We would like to identify organisation areas linked to soft-skills that might need improvement. This can imply the writing of protocol document as we did with the new colloquium format (liked to presentation skills) and the first-aid protocol (liked to non-violent communication) as explained above.
 
