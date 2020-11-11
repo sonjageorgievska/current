@@ -28,9 +28,9 @@ UX-SIG, ux@esciencecenter.nl (to be created)
 
 ## Plans for period until the end of April 2020
 
-- **Design Critiques for current projects**:  encouraging a positive culture to improve projects. Analyze the design of the project's user journey, usability, accessibility, interaction, visualization, and presentation, and give feedback to team members. While making sure of keeping  a **Clear scope for the conversation",   "Agreed-upon design objectives for the work."  and motivating "Conversation rather than command." One project per Meeting. 
+- **Bring Your Own Project Design Critique sessions**:  During a SIG meeting we analyze the design of one NLeSC project. We analyze the design of the project's user journey, usability, accessibility, interaction, visualization, and presentation, and give feedback to team members. In this session we will make sure of keeping  a "Clear scope for the conversation",   "Agreed-upon design objectives for the work."  and motivating "Conversation rather than command." 
 
-- **Proportionate UX tools and resources**: from tools for ideation, wireframing and prototyping, to resources for best practices and design patterns.
+- **Learn about UX tools and resources**: From tools for ideation, wireframing and prototyping, to resources for best practices and design patterns.
  
 ## What are the expected outputs of the proposed SIG?
 
