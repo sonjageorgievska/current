@@ -15,7 +15,7 @@ User Experience SIG:  **UX-SIG**
 
 <!-- The mission of your SIG should contribute to the organization's mission. -->
 
-The SIG aims to start slowly expanding the knowledge and the importance of Human-centric design and best User Experience techniques within our organization and research projects, especially when developing software. 
+The SIG aims to slowly start expanding the knowledge and the importance of Human-centric design and best User Experience techniques within our organization and research projects, especially when developing software. 
 Visualization and presentation are also substantial parts of the SIG, improving seamless guidelines and keeping an eye on consistency and best practices following the eScience branding and communication guidelines. During the SIG meetings, the focus will be on providing design critiques to existing projects, analyzing the design and procedures, and giving feedback to the team members.
 
 ## What GitHub repository will the SIG use?
