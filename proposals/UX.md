@@ -34,8 +34,6 @@ UX-SIG, ux@esciencecenter.nl (to be created)
  
 ## What are the expected outputs of the proposed SIG?
 
-- **Design Thinking workshops**:  a Design Thinking workshop is a hands-on, activity-based session built around the Design Thinking process.
-
 - **Contributions to eScience Center Guide** on the following topics:
 	-   Research / User testing
 	-   Persona / Empathy map
@@ -44,4 +42,5 @@ UX-SIG, ux@esciencecenter.nl (to be created)
 	-   Style guide creation (or UI template)
 	-   Visual design
 	-   Prototyping
+- **Identify common hurdles for making NLeSC projects more user-centered**: by analysing different projects in the Design Critique sessions we will identify common hurdles in making them more user-centered. We can then start thinking on how to overcome those hurdles.
  
