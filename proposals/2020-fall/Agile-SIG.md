@@ -9,10 +9,10 @@ Agile SIG
 
 ## What is the SIG’s mission?
 
-The mission of the Agile SIG is to introduce, teach and train in Agile methodologies.
+The mission of the Agile SIG is to introduce, discuss and teach Agile methodologies within the eScience Center.
 We want Agile to become common knowledge in the center and aim for engineers/MT/DT/Operations to use it when appropriate.
 This will contribute to the team work within the center and to the restructuring and scaling phase we will enter in the near future.
-In addition the SIG acs as a platform for the exhange of experiences between the different teams at the center.
+In addition the SIG acts as a platform for the exhange of experiences between the different teams at the center.
 
 ## What is the GitHub repository of the SIG use?
 
@@ -27,7 +27,7 @@ Agile-SIG@esciencecenter.nl (Agile SIG)
 The Agile SIG has become the discussion platform for how to succesfully apply Agile methods to working at the eScience Center.
 Due to the Corona crisis, involvement of external people is postponed.
 
-We are also working on setting up an Introduction to Agile course. This is progessing nicely.
+We are also working on setting up an [Introduction to Agile](https://github.com/escience-academy/lesson-agile-escience) course. This is progessing nicely.
 
 ## Plans for period until end of October 2020
 
