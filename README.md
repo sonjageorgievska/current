@@ -9,5 +9,8 @@
 # Schedule
 SIGs have regular meeting times. Have a look at the [current SIG schedule](schedule.md) for an overview.
 
-# Current sigs
-An overview of current running SIGs can be found [here](proposals/2019-fall/running-sigs.md).
+# Running sigs
+These are the overviews of SIGs running for different periods:
+ - [Fall 2020](proposals/2020-fall/running-sigs.md)
+ - [Spring 2020](proposals/2020-fall/running-sigs.md)
+ - [Fall 2019](proposals/2020-fall/running-sigs.md)
