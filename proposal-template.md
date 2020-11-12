@@ -6,7 +6,8 @@
       but broad enough to give you room  to shift focus when necessary.  -->
 
 ## Which two persons will act as SIG Leads?
-<!--  Please make sure to have two SIG leads to reduce bus factor.
+<!--  Please make sure to have two SIG leads to reduce bus factor. One of them
+      should act as main point of contact.
       SIG leads are allowed to write the hours dedicated to organizing
       SIG activities under the R&D budget. Please mention in the notes the
       name of your SIG:
@@ -15,7 +16,7 @@
         Hour type: 00071
         Notes: Hours for X SIG
        -->
-- the first person
+- the first person (main point of contact)
 - the second person
 
 ## What is SIG’s mission?
