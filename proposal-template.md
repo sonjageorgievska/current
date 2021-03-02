@@ -12,8 +12,8 @@
       SIG activities under the R&D budget. Please mention in the notes the
       name of your SIG:
         Account: 000104
-        Project: 020203
-        Hour type: 00071
+        Project: 00020213
+        Hour type: 00072
         Notes: Hours for X SIG
        -->
 - the first person (main point of contact)
