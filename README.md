@@ -1,3 +1,5 @@
+[![Markdown links](https://github.com/nlesc-sigs/current/actions/workflows/link-checker.yml/badge.svg)](https://github.com/nlesc-sigs/current/actions/workflows/link-checker.yml)
+
 # Schedule
 
 | Weekly slot    | "Phase" | SIG name                                                      | SIG Leads               |
