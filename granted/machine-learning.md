@@ -30,18 +30,16 @@ https://github.com/NLeSC/Machine_Learning_SIG
 <!--  help text goes here  -->
 mlpr@esciencecenter.nl
 
-## SIG outcomes in the period April 2020 - October 2020 (for existing SIGs)
+## SIG outcomes in the period October 2020 - April 2021 (for existing SIGs)
 <!--  As a simple list of activities in this period is enough.  -->
 
 - **Form**: Bi-weekly sessions on Mondays at 11-12  
 - **Content**: Sessions time is usually divided between discussing issues in projects (if any) and following a topic of current interest
-## Plans for the period until the end of April 2021
+## Plans for the period until the end of October 2021
 <!--  help text goes here  -->
 In this section, list what plans you have for this SIG. Describe each plan according to the following format:
 
 - **Bussiness as usual**: continue as so far
-- **ML2021**: organize the possible Machine Learning 2021 small-scale projects initiative
-
 
 For the title, describe your plan in just a few words. For the context, describe briefly and concretely what is the plan.
 
