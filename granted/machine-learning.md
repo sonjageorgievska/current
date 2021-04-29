@@ -36,7 +36,7 @@ mlpr@esciencecenter.nl
 - **Form**: Bi-weekly sessions on Mondays at 11-12  
 - **Content**: Sessions time is usually divided between discussing issues in projects (if any) and following a topic of current interest
 - **Extra**: SSI-ML call was spawned from SIG members
-- 
+
 ## Plans for the period until the end of October 2021
 <!--  help text goes here  -->
 In this section, list what plans you have for this SIG. Describe each plan according to the following format:
